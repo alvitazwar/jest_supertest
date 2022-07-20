@@ -1,0 +1,27 @@
+{
+  "name": "jest_supertest",
+  "version": "1.0.0",
+  "description": "This is a Generic Rest API testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jest_supertest"
+  },
+  "keywords": [
+    "supertest",
+    "jest"
+  ],
+  "author": "Alvi Tazwar",
+  "license": "ISC",
+
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
