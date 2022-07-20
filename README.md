@@ -1,4 +1,4 @@
-# api_supertest
+# jest_supertest
 This is a generic automation test suit for api testing 
 Used Framewrok
 1. Jest https://jestjs.io/
